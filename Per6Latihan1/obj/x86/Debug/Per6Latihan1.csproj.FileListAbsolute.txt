@@ -1,0 +1,10 @@
+C:\Users\Robi Tanzil Ganefi\AppData\Local\Temporary Projects\Per6Latihan1\bin\Debug\Per6Latihan1.exe
+C:\Users\Robi Tanzil Ganefi\AppData\Local\Temporary Projects\Per6Latihan1\bin\Debug\Per6Latihan1.pdb
+C:\Users\Robi Tanzil Ganefi\AppData\Local\Temporary Projects\Per6Latihan1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robi Tanzil Ganefi\AppData\Local\Temporary Projects\Per6Latihan1\obj\x86\Debug\Per6Latihan1.exe
+C:\Users\Robi Tanzil Ganefi\AppData\Local\Temporary Projects\Per6Latihan1\obj\x86\Debug\Per6Latihan1.pdb
+C:\Users\Robi Tanzil Ganefi\Documents\Visual Studio 2010\Projects\Per6Latihan1\Per6Latihan1\obj\x86\Debug\Per6Latihan1.exe
+C:\Users\Robi Tanzil Ganefi\Documents\Visual Studio 2010\Projects\Per6Latihan1\Per6Latihan1\obj\x86\Debug\Per6Latihan1.pdb
+C:\Users\Robi Tanzil Ganefi\Documents\Visual Studio 2010\Projects\Per6Latihan1\Per6Latihan1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Robi Tanzil Ganefi\Documents\Visual Studio 2010\Projects\Per6Latihan1\Per6Latihan1\bin\Debug\Per6Latihan1.exe
+C:\Users\Robi Tanzil Ganefi\Documents\Visual Studio 2010\Projects\Per6Latihan1\Per6Latihan1\bin\Debug\Per6Latihan1.pdb
